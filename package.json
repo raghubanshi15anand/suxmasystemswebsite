@@ -1,5 +1,6 @@
 {
   "name": "navbar-dropdown-v1",
+  "homepage": "https://raghubanshi15anand.github.io/newetaaide",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -7,12 +8,15 @@
     "@testing-library/react": "^9.3.2",
     "@testing-library/user-event": "^7.1.2",
     "antd": "^4.20.5",
+    "gh-pages": "^4.0.0",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-router-dom": "^5.2.0",
     "react-scripts": "3.4.1"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
@@ -34,3 +38,4 @@
     ]
   }
 }
+
