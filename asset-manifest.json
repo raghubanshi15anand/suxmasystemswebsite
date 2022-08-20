@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/suxmasystemswebsite/static/css/main.ed1cb385.chunk.css",
+    "main.js": "/suxmasystemswebsite/static/js/main.dd890dbf.chunk.js",
+    "main.js.map": "/suxmasystemswebsite/static/js/main.dd890dbf.chunk.js.map",
+    "runtime-main.js": "/suxmasystemswebsite/static/js/runtime-main.8fd7a5ef.js",
+    "runtime-main.js.map": "/suxmasystemswebsite/static/js/runtime-main.8fd7a5ef.js.map",
+    "static/css/2.f7375132.chunk.css": "/suxmasystemswebsite/static/css/2.f7375132.chunk.css",
+    "static/js/2.5c9724e6.chunk.js": "/suxmasystemswebsite/static/js/2.5c9724e6.chunk.js",
+    "static/js/2.5c9724e6.chunk.js.map": "/suxmasystemswebsite/static/js/2.5c9724e6.chunk.js.map",
+    "index.html": "/suxmasystemswebsite/index.html",
+    "precache-manifest.83437fa02f124fc5c658b70b1a0fff9b.js": "/suxmasystemswebsite/precache-manifest.83437fa02f124fc5c658b70b1a0fff9b.js",
+    "service-worker.js": "/suxmasystemswebsite/service-worker.js",
+    "static/css/2.f7375132.chunk.css.map": "/suxmasystemswebsite/static/css/2.f7375132.chunk.css.map",
+    "static/css/main.ed1cb385.chunk.css.map": "/suxmasystemswebsite/static/css/main.ed1cb385.chunk.css.map",
+    "static/js/2.5c9724e6.chunk.js.LICENSE.txt": "/suxmasystemswebsite/static/js/2.5c9724e6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8fd7a5ef.js",
+    "static/css/2.f7375132.chunk.css",
+    "static/js/2.5c9724e6.chunk.js",
+    "static/css/main.ed1cb385.chunk.css",
+    "static/js/main.dd890dbf.chunk.js"
+  ]
+}
