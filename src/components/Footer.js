@@ -64,11 +64,11 @@ function Footer() {
         <div class='social-media-wrap'>
           <div class='footer-logo'>
             <Link to='/' className='social-logo'>
-              etaaide
+            Suxma Systems
               <i class='fab fa-typo3' />
             </Link>
           </div>
-          <small class='website-rights'>etaaide © 2022</small>
+          <small class='website-rights'>Suxma Systems © 2022</small>
           <div class='social-icons'>
             <Link
               class='social-icon-link facebook'
